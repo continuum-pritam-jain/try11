@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_UktyQMfyEemUC62w0Fn2lQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_UktyQcfyEemUC62w0Fn2lQ" comment="" name="Security_ProductEntitlement_URL" prompt="Security_ProductEntitlement_URL?" promptNeeded="false" type="id_String" value="http://internal-entitlement-partnerspecific-72155629.ap-south-1.elb.amazonaws.com/entitlement/v1/mgmt/products/bbfc8a06-fd53-11e8-b34d-e2878fb501c0/partners"/>
+  <contextParameter xmi:id="_UktyQsfyEemUC62w0Fn2lQ" comment="" name="ThirdPartyIntegration_Domain" prompt="ThirdPartyIntegration_Domain?" promptNeeded="false" type="id_String" value="http://internal-third-party-integration-elb-1263876329.ap-south-1.elb.amazonaws.com"/>
+</talendfile:ContextType>
